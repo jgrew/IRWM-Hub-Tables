@@ -1,0 +1,29 @@
+.hide {
+  display: none !important;
+}
+
+.tablePanel {
+  height: 600px;
+  width: 100%;
+}
+
+.mini-map-panel {
+  position: absolute;
+  top: 90px;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  border: none;
+}
+
+.mini-map-panel > .btn-fill {
+  position: fixed;
+  bottom: 0;
+}
+ 
+.flex {
+  display: flex;
+}
+/*
+.form-row-input {
+} */

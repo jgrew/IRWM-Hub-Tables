@@ -1,0 +1,27 @@
+{
+    "compilerOptions": {
+      "module": "amd",
+      "lib": ["DOM","ES5","ES2015","ES6"],
+      "target": "es6",
+      "noImplicitAny": true,
+      "removeComments": true,
+      "jsx": "react",
+      "jsxFactory": "tsx",
+      "moduleResolution": "node",
+      "esModuleInterop": true,
+      "isolatedModules": false,
+      "experimentalDecorators": true,
+      "declaration": false,
+      "noLib": false,
+      "preserveConstEnums": true,
+      "suppressImplicitAnyIndexErrors": true,
+      "strictNullChecks": false,
+      "outDir": "./dist/",
+      "sourceMap": true,
+      "noEmitOnError": false,
+      "noUnusedLocals": false,
+      "importHelpers": true,
+      "skipLibCheck": true,
+      "allowJs": true
+    }
+}
